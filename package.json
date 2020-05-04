@@ -52,7 +52,7 @@
     "superagent": "^5.2.2",
     "tslib": "^1.11.1",
     "type-graphql": "^0.17.4",
-    "typescript-ioc": "^3.2.1",
+    "typescript-ioc": "^3.2.2",
     "typescript-rest": "^3.0.1",
     "typescript-rest-ioc": "^1.0.0",
     "typescript-rest-swagger": "^1.1.1"
